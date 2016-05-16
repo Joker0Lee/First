@@ -30,6 +30,7 @@
     
     // 与图像高度一样防止数据被遮挡
     self.tableView.tableHeaderView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, Width, HeadImgHeight)];
+    NSLog(@"hgggggfddsadf");
 }
 
 /**
